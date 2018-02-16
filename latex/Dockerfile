@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:latest
 MAINTAINER Stewart V. Wright <stewart@vifortech.com>
 
 # all TeX runtime requirements
